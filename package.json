@@ -12,8 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "nedb": "^1.8.0",
-    "nedb-promises": "^4.1.0",
-    "sqlite3": "^4.1.1"
+    "nedb-promises": "^4.1.0"
   },
   "engines": {
     "node": "12.x"
